@@ -1,0 +1,38 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Fender Vintage II 1961 Stratocaster - Fiesta Red",
+        "precio": 2299,
+        "imagen": "./img/fenderstratocaster60.jpg"
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Fender Pro II Telecaster - Butterscotch Blonde",
+        "precio": 1899,
+        "imagen": "./img/fendertelecasterpro.jpg"
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Gibson Les Paul Standard '60s - Honey Amber",
+        "precio": 2799,
+        "imagen": "./img/gibsonlespaulstandard60.jpg"
+    },
+    {
+        "id_producto": 4,
+        "nombre": "Gibson ES-335 Semi-hollowbody - Sixties Cherry",
+        "precio": 3499,
+        "imagen": "./img/gibsones335.jpg"
+    },
+    {
+        "id_producto": 5,
+        "nombre": "Ibanez Genesis RG550 - Desert Sun Yellow",
+        "precio": 999,
+        "imagen": "./img/ibanez550.jpg"
+    },
+    {
+        "id_producto": 6,
+        "nombre": "Ibanez Prestige AZ2204NW - Pastel Pink Rose",
+        "precio": 1999,
+        "imagen": "./img/ibanezaz2204.jpg"
+    }
+]
